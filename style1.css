@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 20px;
+    background-color: lavenderblush;
+    
+}
+
+#name {
+    text-align: center;
+    font-size: 34px;
+    color: rgba(28, 25, 216, 0.568);
+    text-shadow: 1px 1px 0px #000000; 
+}
+
+.Info{
+    text-align: center;
+    font-size: 18px;
+    color: rgba(28, 25, 216, 0.568);
+    text-shadow: 1px 1px 0px #000000;
+    text-indent: 20px;
+}
+
+table {
+    padding: 10px;
+    border-style: solid;
+    border-color: maroon;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+* p {
+    padding: 5px;
+}
+ul {
+    list-style-type: circle;
+}
+
+#duties {
+    padding-left: 120px;
+}
+
+#image {
+    padding:  0px;
+    border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-style: solid;
+}
